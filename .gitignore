@@ -1,0 +1,13 @@
+# Backend (Spring Boot)
+target/
+*.log
+.env
+
+# Frontend
+node_modules/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
